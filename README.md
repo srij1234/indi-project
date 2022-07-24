@@ -5,3 +5,4 @@ an alarm is set off when ever the door is opened,this has been done with the hel
 
 
 a green sheet of paper has been pasted on the door with the help of tape,with opencv we detect  the centre of the sheet of paper,when we open the door the centre of the paper changes coordinates in the live video being recorded.when this coordinate passes given coordinate ,alarm(motor) is set off.
+ video drive link: https://drive.google.com/drive/folders/1QWOLLlVDJ_Fb78C4D2t2GCp1Z_1oC5Sp
